@@ -1,0 +1,16 @@
+1. git init
+2. git add .
+3. git commit -m "first commit"
+4. git branch -M main or git branch -M main
+5. git remote add origin https://github.com/premdanav/air-india-clone.git
+6. git remote set-url origin https://premdanav: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@github.com/premdanav/air-india-clone.git
+7. git push -u origin main
+
+
+//personal access token
+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
+
+//to add new files to git
+1. git add .
+2. git commit -m "addes git commands"
+3. git push
